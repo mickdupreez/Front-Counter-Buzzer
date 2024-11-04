@@ -1,6 +1,8 @@
 # FrontCounter-Buzzer
 
 ## Overview
+TODO::
+* Add a Ultrasonic sensor and pir sensor to the front door
 
 FrontCounter-Buzzer is an ESP32-based customer alert system designed for small businesses. This project consists of two ESP32 devices:
 
